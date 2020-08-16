@@ -4,7 +4,9 @@
 ```
 npm install
 ```
-json-server: json-server --watch db.json 
+json-server: json-server --watch db.json
+
+
 portListening: 3000
 
 ### Compiles and hot-reloads for development
